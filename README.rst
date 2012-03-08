@@ -2,7 +2,7 @@
 django-htmltemplate-checks
 =======
 
-django-htmltemplate-checks is a `Django <http://www.djangoproject.com/>`_ application that adds basicc checks to your html for quality assurance.
+django-htmltemplate-checks is a `Django <http://www.djangoproject.com/>`_ application that adds basic checks to your html for quality assurance.
 
 
 ********
